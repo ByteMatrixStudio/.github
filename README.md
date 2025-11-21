@@ -110,5 +110,7 @@ Each repository includes its own documentation, setup guides, and contribution i
 
 Most coordination and discussion happens in the ByteMatrix Discord community.
 
+https://discord.gg/D4BBj4Zw5E
+
 Whether you’re here to learn, build, teach, or explore — welcome to ByteMatrixStudio.  
 Let’s create something awesome together.
