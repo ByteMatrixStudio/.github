@@ -106,7 +106,7 @@ Each repository includes its own documentation, setup guides, and contribution i
 
 ---
 
-## 💬 Join Us
+## Join Us
 
 Most coordination and discussion happens in the ByteMatrix Discord community.
 
