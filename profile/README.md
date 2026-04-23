@@ -5,22 +5,22 @@ We are a collaborative learning space where developers of all experience levels 
 
 ---
 
-## 🌐 What We Do
+## What We Do
 
 We work across multiple programming languages and technologies, including:
 
-- **C++** — engines, systems, game tech, tools  
-- **Python** — automation, utilities, experimental scripts  
+- **C++** engines, systems, game tech, tools  
+- **Python** automation, utilities, experimental scripts  
 - **C / Systems Programming**  
-- **Web Projects** — lightweight tools and interfaces  
-- **Game Development** — prototypes, libraries, small engines  
+- **Web Projects** lightweight tools and interfaces  
+- **Game Development** prototypes, libraries, small engines  
 - **Reverse Engineering & Modding Tools** (safe, open-source utilities)
 
 Our projects are designed to be approachable for beginners and meaningful for intermediate/advanced contributors.
 
 ---
 
-## 🤝 How We Collaborate
+## How We Collaborate
 
 ByteMatrixStudio uses real-world workflows:
 
@@ -30,11 +30,11 @@ ByteMatrixStudio uses real-world workflows:
 - **Protected main branches** to keep projects stable  
 - **Community voting** for new project ideas
 
-Every contribution — large or small — is valued.
+Every contribution large or small is valued.
 
 ---
 
-## 🌱 For Beginners
+## For Beginners
 
 New developers are welcome here.
 
@@ -45,11 +45,11 @@ We offer:
 - Help with Git, branching, PRs, and workflow  
 - A friendly place to ask questions and learn by doing
 
-No experience required — just curiosity.
+No experience required just curiosity.
 
 ---
 
-## 🧠 For Intermediate Developers
+## For Intermediate Developers
 
 You’ll get experience with:
 
@@ -64,7 +64,7 @@ Great for building your portfolio or CV.
 
 ---
 
-## 🚀 For Advanced Contributors
+## For Advanced Contributors
 
 You’re free to:
 
@@ -78,7 +78,7 @@ We encourage creative and ambitious ideas.
 
 ---
 
-## 🧩 Our Values
+## Our Values
 
 - **Community-driven**  
 - **Beginner-friendly**  
@@ -91,7 +91,7 @@ We believe everyone improves faster when learning together.
 
 ---
 
-## 📁 Projects
+## Projects
 
 Our projects cover:
 
@@ -112,5 +112,5 @@ Most coordination and discussion happens in the ByteMatrix Discord community.
 
 https://discord.gg/D4BBj4Zw5E
 
-Whether you’re here to learn, build, teach, or explore — welcome to ByteMatrixStudio.  
+Whether you’re here to learn, build, teach, or explore welcome to ByteMatrixStudio.  
 Let’s create something awesome together.
